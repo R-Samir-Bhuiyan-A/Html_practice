@@ -23,7 +23,8 @@
     <img src="https://img.shields.io/github/issues-pr/R-Samir-Bhuiyan-A/html_practice" />
   </a>
   <a href="https://github.com/R-Samir-Bhuiyan-A/html_practice/blob/main/LICENSE" alt="License">
-    [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+    <img src="https://img.shields.io/github/license/R-Samir-Bhuiyan-A/html_practice" />
+  
     
   </a>
 </p>
