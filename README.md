@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-  Welcome to the "HTML Practice Examples" repository, owned by **R. Samir Bhuiyan A**. This repository is a collection of beginner-friendly HTML projects, designed to help you learn and practice HTML, the foundation of web development. Whether you're a student, a beginner web developer, or a teacher looking for teaching materials, you'll find these examples invaluable.
+  Welcome to the "HTML Practice Examples" repository, owned by **R.Samir.Bhuiyan.A**. This repository is a collection of beginner-friendly HTML projects, designed to help you learn and practice HTML, the foundation of web development. Whether you're a student, a beginner web developer, or a teacher looking for teaching materials, you'll find these examples invaluable.
 </p>
 
 ## Table of Contents
@@ -77,7 +77,7 @@ We welcome contributions from the community to enhance and expand this repositor
 - Test your examples in different browsers to ensure compatibility.
 - Clearly describe what your example does and any technologies or techniques used.
 
-## Connect with R. Samir Bhuiyan A
+## Connect with R.Samir.Bhuiyan.A
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/R-Samir-Bhuiyan-A)
 - [![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?style=for-the-badge&logo=facebook)](https://Facebook.com/R.SaMiR.BhUiYaN.A)
@@ -88,4 +88,4 @@ Happy learning and happy coding!
 
 ---
 
-If you have any questions or need assistance, please don't hesitate to reach out to R. Samir Bhuiyan A.
+If you have any questions or need assistance, please don't hesitate to reach out to  R.Samir.BhuiyanA.
