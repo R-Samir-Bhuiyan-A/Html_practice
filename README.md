@@ -1,6 +1,9 @@
 <h1 align="center">HTML Practice Examples</h1>
 <p align="center">
-  <img src="assets/html-logo.png" alt="HTML Logo">
+  <p align="center">
+  <img src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="HTML5 Logo">
+</p>
+
 </p>
 
 <p align="center">
