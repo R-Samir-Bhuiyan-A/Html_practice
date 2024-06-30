@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Div</title>
+    <style>
+        .responsive-div {
+            width: 80%;
+            padding: 20px;
+            background-color: lightcoral;
+            text-align: center;
+        }
+        @media (max-width: 600px) {
+            .responsive-div {
+                width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="responsive-div">
+        This div is responsive and changes its width on smaller screens.
+    </div>
+</body>
+</html>
