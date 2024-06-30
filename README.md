@@ -74,8 +74,8 @@ You can explore and practice these examples to gain a better understanding of HT
 
 Here are the CSS practice exercises for your students:
 
-1. [Basic Div Styling](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice1.html)
-2. [Div with Border and Padding](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice2.html)
+1. [Basic Div Styling](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/practice1.html)
+2. [Div with Border and Padding](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/practice2.html)
 3. [Centering a Div](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice3.html)
 4. [Div with Rounded Corners](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice4.html)
 5. [Div with Shadow](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice5.html)
