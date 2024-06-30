@@ -54,18 +54,36 @@ To get started with these examples, follow these simple steps:
 
 3. **Open in Browser**: To view and practice an example, simply open the HTML file in your favorite web browser. You can also edit the HTML files using any code editor to experiment and learn.
 
+
 ## Examples
 
 Here are the HTML practice examples included in this repository:
 
 1. [Personal Portfolio](examples/project1.html)
 2. [Recipe Site](examples/project2.html)
-3. [Services Site](examples/project3.html)
-4. [FAQ Site](examples/project4.html)
-5. [Contact Site](examples/project5.html)
-6. [About Site](examples/project6.html)
-7. [Product Catalog](examples/project7.html)
+3. [Services Site](examples/project.html)
+4. [FAQ Site](examples/project.html)
+5. [Contact Site](examples/project.html)
+6. [About Site](examples/project.html)
+7. [Product Catalog](examples/projectz.html)
 8. [Blog Site](examples/project8.html)
+
+You can explore and practice these examples to gain a better understanding of HTML and web development.
+
+## CSS Practice Exercises
+
+Here are the CSS practice exercises for your students:
+
+1. [Basic Div Styling](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice1.html)
+2. [Div with Border and Padding](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice2.html)
+3. [Centering a Div](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice3.html)
+4. [Div with Rounded Corners](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice4.html)
+5. [Div with Shadow](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice5.html)
+6. [Responsive Div](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice6.html)
+7. [Nested Divs with Different Styles](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice7.html)
+
+You can explore and practice these exercises to gain a better understanding of CSS and web development.
+
 
 You can explore and practice these examples to gain a better understanding of HTML and web development.
 
