@@ -81,6 +81,13 @@ Here are the CSS practice exercises for your students:
 5. [Div with Shadow](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice5.html)
 6. [Responsive Div](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice6.html)
 7. [Nested Divs with Different Styles](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Practice7.html)
+8. [Class and Id](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/class_id.html)
+9. [Text Styling](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/text_styling.html)
+10. [Box Model](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/box_model.html)
+11. [Text Styling](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/text_styling.html)
+12. [Flotating Elements](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/floating_div.html)
+13. [Positioning Elements](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/position.html)
+
 
 You can explore and practice these exercises to gain a better understanding of CSS and web development.
 
