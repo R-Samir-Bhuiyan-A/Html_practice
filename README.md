@@ -86,7 +86,7 @@ Here are the CSS practice exercises for your students:
 10. [Box Model](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/box_model.html)
 11. [Text Styling](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/text_styling.html)
 12. [Flotating Elements](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/floating_div.html)
-13. [Positioning Elements](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/position.html)
+13. [Positioning Elements](https://r-samir-bhuiyan-a.github.io/Html_practice/css_practice/Position.html)
 
 
 You can explore and practice these exercises to gain a better understanding of CSS and web development.
