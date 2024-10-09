@@ -59,14 +59,14 @@ To get started with these examples, follow these simple steps:
 
 Here are the HTML practice examples included in this repository:
 
-1. [Personal Portfolio](examples/project1.html)
-2. [Recipe Site](examples/project2.html)
-3. [Services Site](examples/project3.html)
-4. [FAQ Site](examples/project4.html)
-5. [Contact Site](examples/project5.html)
-6. [About Site](examples/project6.html)
-7. [Product Catalog](examples/project7.html)
-8. [Blog Site](examples/project8.html)
+1. [Personal Portfolio](https://r-samir-bhuiyan-a.github.io/Html_practice/examples/project1.html)
+2. [Recipe Site](https://r-samir-bhuiyan-a.github.io/Html_practice/examples/project2.html)
+3. [Services Site](https://r-samir-bhuiyan-a.github.io/Html_practice/examples/project3.html)
+4. [FAQ Site](https://r-samir-bhuiyan-a.github.io/Html_practice/examples/project4.html)
+5. [Contact Site](https://r-samir-bhuiyan-a.github.io/Html_practice/examples/project5.html)
+6. [About Site](https://r-samir-bhuiyan-a.github.io/Html_practice/examples/project6.html)
+7. [Product Catalog](https://r-samir-bhuiyan-a.github.io/Html_practice/examples/project7.html)
+8. [Blog Site](https://r-samir-bhuiyan-a.github.io/Html_practice/examples/project8.html)
 
 You can explore and practice these examples to gain a better understanding of HTML and web development.
 
